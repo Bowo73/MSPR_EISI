@@ -11,3 +11,6 @@ version-tags.json
 .htmlcov
 .DS_Store
 .idea
+
+# docker
+docker-compose.yml
